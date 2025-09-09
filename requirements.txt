@@ -15,7 +15,7 @@ qdrant_client==1.14.3
 Requests==2.32.4
 sentence_transformers==4.1.0
 tqdm==4.67.1
-mediapipe==0.10.14
+mediapipe
 absl-py
 flatbuffers>=2.0
 jax
